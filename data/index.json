@@ -3,6 +3,14 @@
         {
             "id": 1,
             "title":"Aspiring Developer"
+        },  
+        {
+            "id": 2,
+            "title":"Student"
+        },  
+        {
+            "id": 3,
+            "title":"Software Developer"
         }  
     ],
     "about": [
